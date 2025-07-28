@@ -4,6 +4,8 @@ import { logger } from "@/utils/logger.js";
 import { errorMiddleware } from "./middlewares/error.middleware.js";
 import { notFoundMiddleware } from "./middlewares/not-found.middleware.js";
 
+import authRoutes from "@/routes/auth.route.js";
+
 export class App {
   public readonly app: Application;
 
@@ -25,6 +27,8 @@ export class App {
         uptime: `${process.uptime().toFixed(2)} seconds`,
       });
     });
+
+    this.app.use("/api/auth", authRoutes);
   }
 
   setupErrorMiddlewares() {

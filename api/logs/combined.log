@@ -14,3 +14,8 @@
 [2025-07-25T15:58:59.105+07:00] [info]: Server is listening on port: 8000
 [2025-07-25T15:59:53.585+07:00] [info]: Server is listening on port: 8888
 [2025-07-25T16:00:17.272+07:00] [info]: Server is listening on port: 8888
+[2025-07-28T16:03:16.048+07:00] [info]: Server is listening on port: 8888
+[2025-07-28T16:06:45.268+07:00] [info]: Server is listening on port: 8888
+[2025-07-28T16:06:45.589+07:00] [error]: Cannot read properties of undefined (reading 'isEmailTaken')
+[2025-07-28T16:11:35.668+07:00] [info]: Server is listening on port: 8888
+[2025-07-28T16:12:46.608+07:00] [info]: Server is listening on port: 8888

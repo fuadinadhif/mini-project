@@ -3,6 +3,7 @@ import bcrypt from "bcrypt";
 
 import { prisma } from "@/configs/prisma.config.js";
 import { logger } from "@/utils/logger.js";
+import { generateReferralCode } from "@/utils/generate-code.js";
 
 async function seed() {
   try {
@@ -22,7 +23,15 @@ async function seed() {
       const password = await bcrypt.hash("newpass", 10);
       const profilePic = faker.image.avatar();
 
-      await prisma.user.create({ data: { name, email, password, profilePic } });
+      await prisma.user.create({
+        data: {
+          name,
+          email,
+          password,
+          profilePic,
+          referralCode: generateReferralCode(name),
+        },
+      });
 
       logger.info(`${name} data has been created.`);
     }
