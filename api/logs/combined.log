@@ -296,3 +296,71 @@
     at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
     at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
     at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:31:08.875+07:00] [info]: Server is listening on port: 8888
+[2025-08-01T14:31:20.147+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:31:22.612+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:31:34.361+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:32:39.531+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:32:44.878+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:33:07.817+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:33:39.458+07:00] [info]: Server is listening on port: 8888
