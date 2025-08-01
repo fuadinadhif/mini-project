@@ -1,10 +1,13 @@
 import express, { Application, Request, Response } from "express";
+import cors from "cors";
 
 import { logger } from "@/utils/logger.js";
 import { errorMiddleware } from "./middlewares/error.middleware.js";
 import { notFoundMiddleware } from "./middlewares/not-found.middleware.js";
 
 import authRoutes from "@/routes/auth.route.js";
+
+import { corsOptions } from "./configs/cors.config.js";
 
 export class App {
   public readonly app: Application;
@@ -17,6 +20,7 @@ export class App {
   }
 
   setupMiddlewares() {
+    this.app.use(cors(corsOptions));
     this.app.use(express.json());
   }
 

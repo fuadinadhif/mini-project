@@ -9,23 +9,23 @@ import { ReferralService } from "./referral-service.js";
 export class AuthService {
   private referralService = new ReferralService();
 
-  async isEmailTaken(email: string) {
+  isEmailTaken = async (email: string) => {
     const user = await prisma.user.findUnique({ where: { email } });
     return Boolean(user);
-  }
+  };
 
-  async hashPassword(password: string) {
+  hashPassword = async (password: string) => {
     const hashedPassword = await bcrypt.hash(password, 12);
     return hashedPassword;
-  }
+  };
 
-  async registerUser({
+  registerUser = async ({
     name,
     email,
     password,
     profilePic,
     referralCode,
-  }: CreateUserInput) {
+  }: CreateUserInput) => {
     const isEmailTaken = await this.isEmailTaken(email);
     if (isEmailTaken) throw new AppError("Email already registered", 409);
 
@@ -52,5 +52,5 @@ export class AuthService {
     }
 
     return user;
-  }
+  };
 }

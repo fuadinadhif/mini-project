@@ -2,14 +2,18 @@ import { Request, Response, NextFunction } from "express";
 
 import { AuthService } from "@/services/auth.service.js";
 
-const authService = new AuthService();
-
 export class AuthController {
-  async register(request: Request, response: Response, next: NextFunction) {
+  private authService = new AuthService();
+
+  register = async (
+    request: Request,
+    response: Response,
+    next: NextFunction
+  ) => {
     try {
       const { name, email, password, profilePic, referralCode } = request.body;
 
-      const user = await authService.registerUser({
+      const user = await this.authService.registerUser({
         name,
         email,
         password,
@@ -21,5 +25,5 @@ export class AuthController {
     } catch (error) {
       next(error);
     }
-  }
+  };
 }
