@@ -237,3 +237,302 @@
     at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
     at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
     at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:31:20.147+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:31:22.612+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:31:34.361+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:32:39.531+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:32:44.878+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:33:07.817+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-03T02:45:00.782+07:00] [error]: Error: Email already registered
+    at requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:20:24)
+[2025-08-03T02:45:31.114+07:00] [error]: Error: Email already registered
+    at requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:20:24)
+[2025-08-03T02:45:53.578+07:00] [error]: Error: Email already registered
+    at requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:20:24)
+[2025-08-03T02:46:36.269+07:00] [error]: Error: Email already registerd
+    at requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:20:24)
+[2025-08-03T02:47:27.531+07:00] [error]: Error: Email already registerd
+    at requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:21:24)
+[2025-08-03T02:51:05.269+07:00] [error]: PrismaClientValidationError: 
+Invalid `prisma.registrationToken.create()` invocation in
+/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:22:36
+
+  19 const token = crypto.randomBytes(32).toString("hex");
+  20 const expiresAt = new Date(Date.now() * 1000 * 60 * 15);
+  21 
+→ 22 await prisma.registrationToken.create({
+       data: {
+         email: "nadhif.purwadhika@gmail.com",
+         token: "f65b26730565df86f383ee0e2e9d5d0b12044caaa7d2bd0bb48f801435e8d8f6",
+         expiresAt: new Date("Invalid Date")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~
+       }
+     })
+
+Invalid value for argument `expiresAt`: Provided Date object is invalid. Expected Date.
+    at Dn (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:1363)
+    at e.throwValidationError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:10051)
+    at Ia (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:7488)
+    at ka (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:8741)
+    at Ia (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:8272)
+    at ka (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:8741)
+    at Et (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:5845)
+    at Ln (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:5747)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:10365
+    at Object.runInChildSpan (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:1549)
+[2025-08-03T11:18:21.775+07:00] [error]: Error: Email template nadhif.purwadhika@gmail.com not found
+    at EmailService.getEmailTemplate (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/email.service.ts:22:13)
+    at async EmailService.sendConfirmationEmail (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/email.service.ts:29:30)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:25:7)
+[2025-08-03T11:19:31.920+07:00] [error]: Error: Registration request already pending. Please check your email
+    at AuthService.createRegistrationToken (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:29:13)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:21)
+[2025-08-03T11:43:51.898+07:00] [error]: Error: Email template registration-confirmation.emails.hbs not found
+    at EmailService.getEmailTemplate (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/email.service.ts:22:13)
+    at async EmailService.sendConfirmationEmail (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/email.service.ts:29:30)
+    at async <anonymous> (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:50:7)
+    at async Proxy._transactionWithCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:8173)
+    at async AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:48:12)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T11:50:05.268+07:00] [error]: Error: Registration request already pending. Please check your email
+    at AuthService.createRegistrationToken (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:33:13)
+    at async <anonymous> (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:49:21)
+    at async Proxy._transactionWithCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:8173)
+    at async AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:48:12)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T12:03:47.599+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Email template registration-confirmation.emails.hbs not found
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:73:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T12:04:09.911+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Email template registration-confirmation.emails.hbs not found
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:73:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T12:06:52.245+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Email template registration-confirmation.emails.hbs not found
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:73:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T12:07:25.993+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Email template registration-confirmation.emails.hbs not found
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:73:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T13:36:54.464+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Registration request already pending. Please check your email
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:73:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T13:50:27.554+07:00] [error]: ZodError: [
+  {
+    "code": "invalid_format",
+    "format": "url",
+    "path": [
+      "email"
+    ],
+    "message": "Invalid email format"
+  },
+  {
+    "origin": "string",
+    "code": "too_small",
+    "minimum": 8,
+    "inclusive": true,
+    "path": [
+      "password"
+    ],
+    "message": "Password must be 8 characters or more"
+  },
+  {
+    "origin": "string",
+    "code": "invalid_format",
+    "format": "regex",
+    "pattern": "/[A-Z]/",
+    "path": [
+      "password"
+    ],
+    "message": "Password must contain at least one uppercase character"
+  },
+  {
+    "origin": "string",
+    "code": "invalid_format",
+    "format": "regex",
+    "pattern": "/[0-9]/",
+    "path": [
+      "password"
+    ],
+    "message": "Password must contain at least one digit character"
+  },
+  {
+    "origin": "string",
+    "code": "invalid_format",
+    "format": "regex",
+    "pattern": "/[^a-zA-Z0-9]/",
+    "path": [
+      "password"
+    ],
+    "message": "Password must contain at least one symbol character"
+  }
+]
+    at completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:59:26)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:117:3)
+    at handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:295:15
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-03T13:50:49.678+07:00] [error]: ZodError: [
+  {
+    "code": "invalid_format",
+    "format": "url",
+    "path": [
+      "email"
+    ],
+    "message": "Invalid email format"
+  },
+  {
+    "origin": "string",
+    "code": "invalid_format",
+    "format": "regex",
+    "pattern": "/[^a-zA-Z0-9]/",
+    "path": [
+      "password"
+    ],
+    "message": "Password must contain at least one symbol character"
+  }
+]
+    at completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:59:26)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:117:3)
+    at handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:295:15
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-03T13:51:00.798+07:00] [error]: ZodError: [
+  {
+    "code": "invalid_format",
+    "format": "url",
+    "path": [
+      "email"
+    ],
+    "message": "Invalid email format"
+  }
+]
+    at completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:59:26)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:117:3)
+    at handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:295:15
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-03T13:51:23.327+07:00] [error]: PrismaClientKnownRequestError: 
+Invalid `prisma.user.create()` invocation in
+/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:105:36
+
+  102 const userReferralCode = generateReferralCode(name);
+  103 const defaultAvatar = multiavatar("Binx Bond");
+  104 
+→ 105 const user = await prisma.user.create(
+The provided value for the column is too long for the column's type. Column: (not available)
+    at ri.handleRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:7459)
+    at ri.handleAndLogRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6784)
+    at ri.request (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6491)
+    at async l (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:9812)
+    at async AuthService.createUser (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:105:18)
+    at async completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:61:20)
+[2025-08-03T13:57:17.603+07:00] [error]: PrismaClientKnownRequestError: 
+Invalid `prisma.user.create()` invocation in
+/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:106:36
+
+  103 const userReferralCode = generateReferralCode(name);
+  104 const defaultAvatar = createAvatar(dylan).toDataUri();
+  105 
+→ 106 const user = await prisma.user.create(
+The provided value for the column is too long for the column's type. Column: (not available)
+    at ri.handleRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:7459)
+    at ri.handleAndLogRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6784)
+    at ri.request (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6491)
+    at async l (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:9812)
+    at async AuthService.createUser (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:106:18)
+    at async completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:60:20)
+[2025-08-03T14:08:02.541+07:00] [error]: PrismaClientKnownRequestError: 
+Invalid `prisma.user.create()` invocation in
+/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:106:36
+
+  103 const userReferralCode = generateReferralCode(name);
+  104 const defaultAvatar = createAvatar(dylan).toDataUri();
+  105 
+→ 106 const user = await prisma.user.create(
+The provided value for the column is too long for the column's type. Column: (not available)
+    at ri.handleRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:7459)
+    at ri.handleAndLogRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6784)
+    at ri.request (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6491)
+    at async l (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:9812)
+    at async AuthService.createUser (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:106:18)
+    at async completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:60:20)
+[2025-08-03T16:29:18.482+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Registration request already pending. Please check your email
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:74:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:22:7)
+[2025-08-03T17:47:57.882+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Email template registration-confirmation.emails.hbs not found
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:74:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:22:7)

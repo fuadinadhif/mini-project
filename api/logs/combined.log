@@ -296,3 +296,439 @@
     at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
     at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
     at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:31:08.875+07:00] [info]: Server is listening on port: 8888
+[2025-08-01T14:31:20.147+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:31:22.612+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:31:34.361+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:32:39.531+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:32:44.878+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:33:07.817+07:00] [error]: Error: Not allowed by CORS
+    at origin (/home/blackie/insider/purwadhika/playground/mini-project/api/src/configs/cors.config.ts:10:14)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/cors/lib/index.js:204:7)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:342:13)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:297:9
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-01T14:33:39.458+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:06:19.411+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:22:29.446+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:39:33.331+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:41:48.084+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:42:32.107+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:42:48.091+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:44:05.356+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:44:43.904+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:48:47.410+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:49:17.370+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:50:15.223+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:50:33.172+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:51:05.453+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:51:31.926+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:51:39.376+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T01:51:48.866+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:00:27.720+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:43:59.224+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:44:23.068+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:45:00.782+07:00] [error]: Error: Email already registered
+    at requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:20:24)
+[2025-08-03T02:45:31.114+07:00] [error]: Error: Email already registered
+    at requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:20:24)
+[2025-08-03T02:45:53.578+07:00] [error]: Error: Email already registered
+    at requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:20:24)
+[2025-08-03T02:46:33.231+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:46:36.269+07:00] [error]: Error: Email already registerd
+    at requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:20:24)
+[2025-08-03T02:46:51.435+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:46:57.579+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:47:24.799+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:47:27.531+07:00] [error]: Error: Email already registerd
+    at requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:21:24)
+[2025-08-03T02:50:15.315+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:50:26.124+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:50:59.763+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:51:05.269+07:00] [error]: PrismaClientValidationError: 
+Invalid `prisma.registrationToken.create()` invocation in
+/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:22:36
+
+  19 const token = crypto.randomBytes(32).toString("hex");
+  20 const expiresAt = new Date(Date.now() * 1000 * 60 * 15);
+  21 
+→ 22 await prisma.registrationToken.create({
+       data: {
+         email: "nadhif.purwadhika@gmail.com",
+         token: "f65b26730565df86f383ee0e2e9d5d0b12044caaa7d2bd0bb48f801435e8d8f6",
+         expiresAt: new Date("Invalid Date")
+                    ~~~~~~~~~~~~~~~~~~~~~~~~
+       }
+     })
+
+Invalid value for argument `expiresAt`: Provided Date object is invalid. Expected Date.
+    at Dn (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:1363)
+    at e.throwValidationError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:10051)
+    at Ia (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:7488)
+    at ka (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:8741)
+    at Ia (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:8272)
+    at ka (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:8741)
+    at Et (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:5845)
+    at Ln (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:32:5747)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:10365
+    at Object.runInChildSpan (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:1549)
+[2025-08-03T02:52:44.641+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T02:57:56.469+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T08:09:37.947+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:07:46.197+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:08:26.081+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:11:19.540+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:18:09.088+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:18:47.207+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:27:12.075+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:27:39.713+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:28:06.337+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:28:52.098+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:30:32.889+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:30:45.220+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:30:58.743+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:31:18.231+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:56:35.152+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:57:37.382+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T09:59:42.395+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:00:13.042+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:11:59.142+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:12:07.118+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:12:22.267+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:14:51.252+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:15:29.364+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:17:32.003+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:22:00.839+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:22:16.590+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:32:58.370+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:33:27.589+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:34:04.861+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:44:39.551+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:47:15.982+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:55:50.318+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T10:59:09.210+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:00:47.461+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:03:19.812+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:03:23.927+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:04:38.378+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:07:12.422+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:07:30.040+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:09:01.358+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:09:32.744+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:11:36.131+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:15:37.224+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:15:45.998+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:15:48.433+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:16:12.796+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:16:30.795+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:16:59.016+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:18:21.775+07:00] [error]: Error: Email template nadhif.purwadhika@gmail.com not found
+    at EmailService.getEmailTemplate (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/email.service.ts:22:13)
+    at async EmailService.sendConfirmationEmail (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/email.service.ts:29:30)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:25:7)
+[2025-08-03T11:19:27.734+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:19:31.920+07:00] [error]: Error: Registration request already pending. Please check your email
+    at AuthService.createRegistrationToken (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:29:13)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:21)
+[2025-08-03T11:30:18.328+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:30:45.317+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:31:27.538+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:31:33.637+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:31:53.347+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:35:27.760+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:38:43.918+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:39:29.754+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:40:34.538+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:40:38.927+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:42:18.782+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:42:34.160+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:42:46.889+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:43:08.939+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:43:26.353+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:43:29.959+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:43:47.802+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:43:51.898+07:00] [error]: Error: Email template registration-confirmation.emails.hbs not found
+    at EmailService.getEmailTemplate (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/email.service.ts:22:13)
+    at async EmailService.sendConfirmationEmail (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/email.service.ts:29:30)
+    at async <anonymous> (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:50:7)
+    at async Proxy._transactionWithCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:8173)
+    at async AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:48:12)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T11:47:04.211+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:47:20.440+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:47:38.167+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:49:56.918+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:50:05.268+07:00] [error]: Error: Registration request already pending. Please check your email
+    at AuthService.createRegistrationToken (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:33:13)
+    at async <anonymous> (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:49:21)
+    at async Proxy._transactionWithCallback (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:8173)
+    at async AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:48:12)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T11:53:34.087+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:54:33.054+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:56:48.934+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:57:05.029+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T11:58:34.025+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:00:13.699+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:00:16.360+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:00:43.424+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:00:58.070+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:02:14.503+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:02:24.956+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:02:46.834+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:03:23.433+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:03:47.599+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Email template registration-confirmation.emails.hbs not found
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:73:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T12:04:07.540+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:04:09.911+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Email template registration-confirmation.emails.hbs not found
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:73:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T12:06:23.709+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:06:26.675+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:06:43.030+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:06:52.245+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Email template registration-confirmation.emails.hbs not found
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:73:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T12:07:14.618+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T12:07:25.993+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Email template registration-confirmation.emails.hbs not found
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:73:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T13:12:48.630+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T13:36:33.561+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T13:36:43.619+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T13:36:54.464+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Registration request already pending. Please check your email
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:73:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:24:7)
+[2025-08-03T13:38:12.497+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T13:46:24.003+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T13:46:48.902+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T13:47:15.726+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T13:50:27.554+07:00] [error]: ZodError: [
+  {
+    "code": "invalid_format",
+    "format": "url",
+    "path": [
+      "email"
+    ],
+    "message": "Invalid email format"
+  },
+  {
+    "origin": "string",
+    "code": "too_small",
+    "minimum": 8,
+    "inclusive": true,
+    "path": [
+      "password"
+    ],
+    "message": "Password must be 8 characters or more"
+  },
+  {
+    "origin": "string",
+    "code": "invalid_format",
+    "format": "regex",
+    "pattern": "/[A-Z]/",
+    "path": [
+      "password"
+    ],
+    "message": "Password must contain at least one uppercase character"
+  },
+  {
+    "origin": "string",
+    "code": "invalid_format",
+    "format": "regex",
+    "pattern": "/[0-9]/",
+    "path": [
+      "password"
+    ],
+    "message": "Password must contain at least one digit character"
+  },
+  {
+    "origin": "string",
+    "code": "invalid_format",
+    "format": "regex",
+    "pattern": "/[^a-zA-Z0-9]/",
+    "path": [
+      "password"
+    ],
+    "message": "Password must contain at least one symbol character"
+  }
+]
+    at completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:59:26)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:117:3)
+    at handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:295:15
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-03T13:50:49.678+07:00] [error]: ZodError: [
+  {
+    "code": "invalid_format",
+    "format": "url",
+    "path": [
+      "email"
+    ],
+    "message": "Invalid email format"
+  },
+  {
+    "origin": "string",
+    "code": "invalid_format",
+    "format": "regex",
+    "pattern": "/[^a-zA-Z0-9]/",
+    "path": [
+      "password"
+    ],
+    "message": "Password must contain at least one symbol character"
+  }
+]
+    at completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:59:26)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:117:3)
+    at handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:295:15
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-03T13:51:00.798+07:00] [error]: ZodError: [
+  {
+    "code": "invalid_format",
+    "format": "url",
+    "path": [
+      "email"
+    ],
+    "message": "Invalid email format"
+  }
+]
+    at completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:59:26)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/route.js:117:3)
+    at handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/lib/layer.js:152:17)
+    at /home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:295:15
+    at processParams (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:582:12)
+    at next (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:291:5)
+    at Function.handle (/home/blackie/insider/purwadhika/playground/mini-project/api/node_modules/router/index.js:186:3)
+[2025-08-03T13:51:20.323+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T13:51:23.327+07:00] [error]: PrismaClientKnownRequestError: 
+Invalid `prisma.user.create()` invocation in
+/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:105:36
+
+  102 const userReferralCode = generateReferralCode(name);
+  103 const defaultAvatar = multiavatar("Binx Bond");
+  104 
+→ 105 const user = await prisma.user.create(
+The provided value for the column is too long for the column's type. Column: (not available)
+    at ri.handleRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:7459)
+    at ri.handleAndLogRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6784)
+    at ri.request (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6491)
+    at async l (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:9812)
+    at async AuthService.createUser (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:105:18)
+    at async completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:61:20)
+[2025-08-03T13:52:17.742+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T13:57:14.605+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T13:57:17.603+07:00] [error]: PrismaClientKnownRequestError: 
+Invalid `prisma.user.create()` invocation in
+/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:106:36
+
+  103 const userReferralCode = generateReferralCode(name);
+  104 const defaultAvatar = createAvatar(dylan).toDataUri();
+  105 
+→ 106 const user = await prisma.user.create(
+The provided value for the column is too long for the column's type. Column: (not available)
+    at ri.handleRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:7459)
+    at ri.handleAndLogRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6784)
+    at ri.request (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6491)
+    at async l (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:9812)
+    at async AuthService.createUser (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:106:18)
+    at async completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:60:20)
+[2025-08-03T13:57:49.893+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T14:07:54.433+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T14:08:02.541+07:00] [error]: PrismaClientKnownRequestError: 
+Invalid `prisma.user.create()` invocation in
+/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:106:36
+
+  103 const userReferralCode = generateReferralCode(name);
+  104 const defaultAvatar = createAvatar(dylan).toDataUri();
+  105 
+→ 106 const user = await prisma.user.create(
+The provided value for the column is too long for the column's type. Column: (not available)
+    at ri.handleRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:7459)
+    at ri.handleAndLogRequestError (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6784)
+    at ri.request (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:124:6491)
+    at async l (/home/blackie/insider/purwadhika/playground/mini-project/api/src/generated/prisma/runtime/library.js:133:9812)
+    at async AuthService.createUser (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:106:18)
+    at async completeRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:60:20)
+[2025-08-03T14:08:20.870+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T15:16:23.277+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T16:24:32.011+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T16:24:57.714+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T16:25:11.081+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T16:28:54.988+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T16:29:18.482+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Registration request already pending. Please check your email
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:74:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:22:7)
+[2025-08-03T17:46:53.468+07:00] [info]: Server is listening on port: 8888
+[2025-08-03T17:47:57.882+07:00] [error]: Error: Failed to send confirmation email after 3 attempts: Email template registration-confirmation.emails.hbs not found
+    at AuthService.requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/services/auth.service.ts:74:11)
+    at async requestRegistration (/home/blackie/insider/purwadhika/playground/mini-project/api/src/controllers/auth.controller.ts:22:7)
