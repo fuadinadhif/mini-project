@@ -2,9 +2,10 @@
 
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { registerSchema, RegisterSchema } from "../schemas/register.schema";
-import { toast } from "react-toastify";
-import { useState } from "react";
+import { toast } from "sonner";
+
+import { createUserSchema, CreateUserSchema } from "../schemas/auth.schema";
+
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import {
@@ -16,52 +17,40 @@ import {
   FormMessage,
 } from "@/components/ui/form";
 
-export function RegisterFormShadcn() {
-  const form = useForm<RegisterSchema>({
-    resolver: zodResolver(registerSchema),
-    defaultValues: {
-      name: "",
-      email: "",
-      password: "",
-      profilePic: "",
-      referralCode: "",
-    },
+export function RegistrationCompletionForm() {
+  const form = useForm<CreateUserSchema>({
+    resolver: zodResolver(createUserSchema),
   });
 
-  const [loading, setLoading] = useState(false);
-
-  const onSubmit = async (data: RegisterSchema) => {
+  async function onSubmit(formData: CreateUserSchema) {
     try {
-      setLoading(true);
-      const res = await fetch(
-        `${process.env.NEXT_PUBLIC_API_URL}/auth/register`,
+      const response = await fetch(
+        `${process.env.NEXT_PUBLIC_API_URL}/auth/register/complete`,
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(data),
-        }
+          body: JSON.stringify(formData),
+        },
       );
 
-      const resData = await res.json();
+      const data = await response.json();
 
-      if (!res.ok) {
-        throw new Error(resData.message || "Registration failed");
+      if (!response.ok) {
+        throw new Error(data.message || "Registration failed");
       }
 
       toast.success("User registered successfully");
       form.reset();
     } catch (err) {
       toast.error(err instanceof Error ? err.message : "Something went wrong");
-    } finally {
-      setLoading(false);
     }
-  };
+  }
 
   return (
     <Form {...form}>
       <form
         onSubmit={form.handleSubmit(onSubmit)}
-        className="grid gap-4 mx-auto"
+        className="grid w-full max-w-100 gap-4"
       >
         <FormField
           control={form.control}
@@ -70,7 +59,7 @@ export function RegisterFormShadcn() {
             <FormItem>
               <FormLabel>Name</FormLabel>
               <FormControl>
-                <Input {...field} placeholder="Your name" />
+                <Input {...field} type="text" placeholder="Your name" />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -114,6 +103,7 @@ export function RegisterFormShadcn() {
               <FormControl>
                 <Input
                   {...field}
+                  type="text"
                   placeholder="https://example.com/avatar.jpg"
                 />
               </FormControl>
@@ -129,7 +119,7 @@ export function RegisterFormShadcn() {
             <FormItem>
               <FormLabel>Referral Code (optional)</FormLabel>
               <FormControl>
-                <Input {...field} placeholder="REF12345" />
+                <Input {...field} type="text" placeholder="REF12345" />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -138,10 +128,10 @@ export function RegisterFormShadcn() {
 
         <Button
           type="submit"
-          disabled={form.formState.isSubmitting || loading}
+          disabled={form.formState.isSubmitting}
           className="w-full"
         >
-          {loading ? "Registering..." : "Register"}
+          {form.formState.isSubmitting ? "Registering..." : "Register"}
         </Button>
       </form>
     </Form>
